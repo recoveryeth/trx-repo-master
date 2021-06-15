@@ -1,0 +1,32 @@
+#no_wallet {
+  .content {
+    padding-left: 74px;
+    padding-right: 74px;
+    text-align: center;
+
+    .text {
+      font-size: 28px;
+      line-height: 44px;
+      color: #FFFFFF;
+    }
+
+    button {
+      margin-top: 30px;
+      margin-bottom: 20px;
+      padding-left: 80px;
+      padding-right: 80px;
+      border: none;
+      height: 63px;
+      border-radius: 63px;
+      background-color: #ed1b26;
+      font-size: 28px;
+      color: #fff;
+    }
+
+    .tip {
+      font-size: 28px;
+      line-height: 44px;
+      color: #FFFFFF;
+    }
+  }
+}
